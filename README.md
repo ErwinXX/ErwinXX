@@ -5,7 +5,7 @@
 
 🔒 Passionate about ethical hacking, network security, and offensive security tools.  
 💻 Currently learning advanced penetration testing techniques and exploring real-world CTF challenges.  
-📚 Preparing for certifications: **OSCP** | **CCNA**  
+📚 Preparing for certifications: **CompTIA Security+** 
 🌐 Also diving into: Python scripting, Wireshark, Metasploit, Burp Suite, Kali Linux, and more.  
 🛠️ Building tools for WiFi pentesting and Linux backdoors on Raspberry Pi 🔥
 
@@ -42,9 +42,9 @@
 
 ## 📫 Reach Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🔗 TryHackMe: `@yourusername` | HackTheBox: `@yourusername`
+- 📧 Email: arvind16@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/arvind-lohar-48824b266)
+- 🔗 TryHackMe: `@sherlocked101` | HackTheBox: `@bighathacker`
 
 ---
 
