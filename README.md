@@ -33,17 +33,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Arvind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
 
 ## 📫 Reach Me
 
 - 📧 Email: arvind16@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/arvind-lohar-48824b266)
+- 💼 LinkedIn: [linkedin.com/in/arvind-lohar](www.linkedin.com/in/arvind-lohar-48824b266)
 - 🔗 TryHackMe: `@sherlocked101` | HackTheBox: `@bighathacker`
 
 ---
