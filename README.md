@@ -1,3 +1,9 @@
+  ____             _           _     _             
+ |  _ \ __ _ _ __ (_) ___  ___| |__ (_)_ __   __ _ 
+ | |_) / _` | '_ \| |/ _ \/ __| '_ \| | '_ \ / _` |
+ |  __/ (_| | | | | |  __/\__ \ | | | | | | | (_| |
+ |_|   \__,_|_| |_|_|\___||___/_| |_|_|_| |_|\__, |
+                                             |___/ 
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">Aspiring Penetration Tester | Cybersecurity Enthusiast | Computer Science Student</h3>
 
@@ -35,18 +41,18 @@
 
 ## 🔭 Projects
 
-- 🔧 **WiFi Pentesting Tool** – Packet sniffing, deauth attacks, and automation on Raspberry Pi 4
-- 🐍 **Python Backdoor** – Multi-threaded Linux reverse shell (educational purpose only)
-- 🛡️ **Network Scanner** – Automates Nmap scans and extracts vulnerable hosts
-- 🧠 **CTF Writeups** – Notes & solutions from platforms like **TryHackMe**, **HackTheBox**, **PicoCTF**
+- 🔧 **WiFi Pentesting Tool** – Packet sniffing, deauth attacks, and automation on Raspberry Pi 4  
+- 🐍 **Python Backdoor** – Multi-threaded Linux reverse shell (educational purpose only)  
+- 🛡️ **Network Scanner** – Automates Nmap scans and extracts vulnerable hosts  
+- 🧠 **CTF Writeups** – Notes & solutions from platforms like **TryHackMe**, **HackTheBox**, **PicoCTF**  
 
 ---
 
 ## 📫 Reach Me
 
-- 📧 Email: [arvind16@gmail.com](mailto:arvind16@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/arvind-lohar](https://www.linkedin.com/in/arvind-lohar-48824b266/)
-- 🔗 TryHackMe: `@sherlocked101` | HackTheBox: `@bighathacker`
+- 📧 Email: [arvind16@gmail.com](mailto:arvind16@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/arvind-lohar](https://www.linkedin.com/in/arvind-lohar-48824b266/)  
+- 🔗 TryHackMe: `@sherlocked101` | HackTheBox: `@bighathacker`  
 
 ---
 
