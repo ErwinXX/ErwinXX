@@ -11,8 +11,8 @@
 </code>
 </pre>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Arvind's+Cyber+Profile...;Loading+████████▌100%25;Ready+to+Hack+the+Planet" alt="Typing animation" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=500&color=00FF00&center=false&vCenter=true&width=600&lines=%3E+Initializing+Arvind's+Cyber+Profile...;%3E+Loading+████████▌100%25;%3E+Ready+to+Hack+the+Planet" alt="Typing animation" />
 </p>
 
 
