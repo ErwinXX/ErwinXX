@@ -1,3 +1,1 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=500&color=39FF14&center=true&vCenter=true&width=800&lines=Programmer;Pentester+%F0%9F%94%91;Cybersec+Enthusiast+%F0%9F%9A%80;Tinkerer+%F0%9F%92%A1">
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=800&pause=500&color=00FFEA&center=true&vCenter=true&width=900&lines=I+am+a+Programmer;I+am+a+Pentester+%F0%9F%94%91;I+am+a+Cybersec+Enthusiast+%F0%9F%9A%80;I+am+a+Tinkerer+%F0%9F%92%A1">
