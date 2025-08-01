@@ -11,7 +11,7 @@
 </pre>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Initializing+Arvind's+Cyber+Profile...;Loading+████░░░░░░░░+20%25;Loading+████████░░░░+60%25;Loading+██████████+100%25;Ready+to+Hack+the+Planet+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+Arvind's+Cyber+Profile...;Loading+▌20%25;Loading+████▌60%25;Loading+████████▌100%25;Ready+to+Hack+the+Planet+💻" alt="Typing animation" />
 </p>
 
 
