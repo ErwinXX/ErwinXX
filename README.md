@@ -1,45 +1,24 @@
-<h1 align="center">Hi 👋, I'm Arvind</h1>
-<h3 align="center">Aspiring Penetration Tester | Cybersecurity Enthusiast | Computer Science Student</h3>
+███████╗██╗░░░██╗░█████╗░██████╗░██╗███╗░░██╗
+██╔════╝██║░░░██║██╔══██╗██╔══██╗██║████╗░██║
+█████╗░░╚██╗░██╔╝██║░░██║██████╔╝██║██╔██╗██║
+██╔══╝░░░╚████╔╝░██║░░██║██╔═══╝░██║██║╚████║
+███████╗░░╚██╔╝░░╚█████╔╝██║░░░░░██║██║░╚███║
+╚══════╝░░░╚═╝░░░░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚══╝
+    Hi, I'm Arvind ☠️
 
 ---
 
-🔒 Passionate about ethical hacking, network security, and offensive security tools.  
-💻 Currently learning advanced penetration testing techniques and exploring real-world CTF challenges.  
-📚 Preparing for certifications: **CompTIA Security+** 
-🌐 Also diving into: Python scripting, Wireshark, Metasploit, Burp Suite, Kali Linux, and more.  
-🛠️ Building tools for WiFi pentesting and Linux backdoors on Raspberry Pi 🔥
+## 🧠 About Me
 
----
+```bash
+> whoami
+arvind@cyberlab:~$ Cybersecurity Student | Ethical Hacker in Progress
 
-## 🧰 Tools & Technologies
+> status
+Learning advanced pentesting | Building offensive security tools | Preparing for CompTIA Security+
 
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-222222?style=flat&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-ff5722?style=flat&logo=burpsuite&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat&logo=nmap&logoColor=white)
+> skills
+Python, Bash, Networking, CTFs, Red Teaming, Linux Internals, Reverse Shells, WiFi Attacks
 
----
-
-## 🔭 Projects
-
-- 🔧 **WiFi Pentesting Tool** – Packet sniffing, deauth attack, and more on Raspberry Pi 4
-- 🐍 **Python Backdoor** – Socket-based Linux backdoor with threading (for educational use)
-- 🛡️ **Network Scanning Tool** – Nmap automation and vulnerability detection
-- 🧠 **CTF Challenges** – Writeups & solutions from platforms like TryHackMe, HackTheBox, PicoCTF
-
----
-
-
-## 📫 Reach Me
-
-- 📧 Email: arvind16@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/arvind-lohar](www.linkedin.com/in/arvind-lohar-48824b266)
-- 🔗 TryHackMe: `@sherlocked101` | HackTheBox: `@bighathacker`
-
----
-
-> 💡 _“The quieter you become, the more you are able to hear.” – Kali Linux Philosophy_
+> motto
+"In a world full of firewalls, be the exploit."
