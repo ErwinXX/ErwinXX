@@ -1,9 +1,16 @@
+<p align="center">
+<pre>
+<code>
   ____             _           _     _             
  |  _ \ __ _ _ __ (_) ___  ___| |__ (_)_ __   __ _ 
  | |_) / _` | '_ \| |/ _ \/ __| '_ \| | '_ \ / _` |
  |  __/ (_| | | | | |  __/\__ \ | | | | | | | (_| |
  |_|   \__,_|_| |_|_|\___||___/_| |_|_|_| |_|\__, |
                                              |___/ 
+</code>
+</pre>
+</p>
+
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">Aspiring Penetration Tester | Cybersecurity Enthusiast | Computer Science Student</h3>
 
