@@ -10,6 +10,10 @@
 </code>
 </pre>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" alt="Typing SVG">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">Aspiring Penetration Tester | Cybersecurity Enthusiast | Computer Science Student</h3>
